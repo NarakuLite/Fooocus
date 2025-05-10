@@ -44,8 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "JuggernautXL V8 Rundiffusion": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "RealVisXL V5.0 FP32": "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp32.safetensors"
+        "RealVisXL V5.0 FP16": "https://huggingface.co/SG161222/RealVisXL_V5.0/resolve/main/RealVisXL_V5.0_fp16.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
